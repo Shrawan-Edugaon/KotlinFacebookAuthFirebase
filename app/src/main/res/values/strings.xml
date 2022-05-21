@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">KotlinFacebookAuthFirebase</string>
+    <string name="facebook_app_id" />
+</resources>
